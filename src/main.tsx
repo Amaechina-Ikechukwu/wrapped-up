@@ -14,7 +14,7 @@ const theme = extendTheme({
   colorSchemes: {
     light: {
       palette: {
-        secondary: {
+        wpc: {
 
           orange: '#FFC977',
           green: '#BAEA99',
@@ -25,7 +25,7 @@ const theme = extendTheme({
     },
     dark: {
       palette: {
-        secondary: {
+        wpc: {
 
           orange: '#FFC977',
           green: '#BAEA99',

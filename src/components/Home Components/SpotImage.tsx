@@ -4,14 +4,14 @@ import Spot from '../../assets/images/spotify1.png'
 export default function SpotImage() {
 
     const containerStyle = {
-        backgroundColor: 'secondary.orange',
+        backgroundColor: 'wpc.orange',
         borderRadius: '100%',
         width: 500,
         height: 500,
         display: 'flex',
         alignItems: 'flex-end',
         justifyContent: 'center',
-        boxShadow: '0 0 50px secondary.orange', // Add round orange shadow
+        boxShadow: '0 0 50px wpc.orange', // Add round orange shadow
     };
 
     const innerBoxStyle = {
