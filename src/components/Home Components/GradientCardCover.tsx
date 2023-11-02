@@ -53,7 +53,7 @@ export default function GradientCardCover() {
                         <Box
                             sx={{
                                 aspectRatio: 9 / 16,
-                                backgroundColor: 'wpc.green',
+                                backgroundColor: 'primary.200',
                                 borderRadius: 5,
                                 transform: 'skewY(-5deg)', // Tilt the green background
                                 zIndex: 1,
@@ -65,7 +65,7 @@ export default function GradientCardCover() {
                         <Box
                             sx={{
                                 aspectRatio: 9 / 16,
-                                backgroundColor: 'wpc.orange',
+                                backgroundColor: 'primary.100',
                                 borderRadius: 5,
                                 transform: 'skewY(5deg)', // Tilt the orange background
                                 zIndex: 2,

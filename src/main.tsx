@@ -14,22 +14,22 @@ const theme = extendTheme({
   colorSchemes: {
     light: {
       palette: {
-        wpc: {
-
-          orange: '#FFC977',
-          green: '#BAEA99',
-          text: "#424242"
+        primary: {
+          50: "#FFFFFF",
+          100: '#FFC977',
+          200: '#BAEA99',
+          300: "#424242"
 
         },
       },
     },
     dark: {
       palette: {
-        wpc: {
-
-          orange: '#FFC977',
-          green: '#BAEA99',
-          text: "#E4E4E4"
+        primary: {
+          50: "#010B00",
+          100: '#FFC977',
+          200: '#BAEA99',
+          300: "#E4E4E4"
         },
       },
     },

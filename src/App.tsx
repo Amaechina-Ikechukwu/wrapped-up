@@ -14,7 +14,7 @@ function App() {
       display: 'flex', // Center content using flexbox
       alignItems: 'center', // Center vertically
       justifyContent: 'center', // Center horizontally
-      backgroundColor: 'wpc.background', overflow: 'auto'
+      backgroundColor: 'primary.50', overflow: 'auto'
     }}>
       <Container maxWidth='md' sx={{
         width: '100%', height: '100%'
