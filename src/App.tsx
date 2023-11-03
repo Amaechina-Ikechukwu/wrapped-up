@@ -18,11 +18,7 @@ function App() {
     }}>
       <Container maxWidth='md' sx={{
         width: '100%', height: '100%'
-
-      }}
-
-      >
-
+      }}>
         <Box sx={{ width: '100%', flex: 1 }}>
           <Header />
           <Home />
