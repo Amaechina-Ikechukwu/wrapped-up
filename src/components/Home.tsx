@@ -8,7 +8,7 @@ export default function Home() {
     return (
         <Box sx={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: 16, mt: 10 }}>
             <Stack spacing={8}>
-                <Fade in={true}  {...({ timeout: 3000 })}>
+                <Fade in={true}  >
                     <Typography level='h1' sx={{ color: 'primary.300', fontSize: 40, textAlign: 'center', width: "100%" }}>
                         Have your own
                         <Typography variant="outlined" sx={{ color: 'primary.200', fontSize: 52, display: 'block', textAlign: 'center' }}>
